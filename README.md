@@ -5,6 +5,9 @@
 
 Aprendizagem de Máquina baseado em Rede Neural Artificial e MLP, usando Scikit-learning, Python, pandas, numpy.... Consumindo dataset disponibilizado pela kaggle.
 
+![](https://hacktoberfestswaglist.com/img/Hfest-Logo-2-Color-Manga.png)
+
+
 ## Resumo:
 Após densenvolver uma aprendizagem para verificar ataque cardiaco, resolvi implementar um RNA. A autonomia é calculada a partir do peso, podendo ser inseridas outras variaveis para a aprendizagem.
 
